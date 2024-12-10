@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Cherry Grove",
+      "image": "https://wisehosting.com/templates/wisehosting/assets/images/seeds/seed1.webp",
+      "version": "1.20",
+      "edition": "Java",
+      "spawnLocation": "Plains",
+      "structures": ["Village", "Ruined Portal"],
+      "biomes": ["Plains"],
+      "bestSuitedFor": ["Survival Friendly"]
+    },
+    {
+      "name": "Birch Forest",
+      "image": "https://wisehosting.com/templates/wisehosting/assets/images/seeds/seed1.webp",
+      "version": "1.20",
+      "edition": "Java",
+      "spawnLocation": "Snow Plains",
+      "structures": ["Mineshaft"],
+      "biomes": ["Ocean"],
+      "bestSuitedFor": ["Creative Build Potential"]
+    }
+  ]
+  

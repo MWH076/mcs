@@ -1,0 +1,10 @@
+{
+    "Spawn Location": ["Plains", "Snow Plains"],
+    "Version": ["1.20", "1.19", "1.18"],
+    "Edition": ["Java", "Bedrock", "Console", "Pocket"],
+    "Exposed Surrounding Structures": ["Village", "Mineshaft", "Desert Temple", "Woodland Mansion", "Ocean Monument", "Ruined Portal"],
+    "Hidden Surrounding Structures": ["Stronghold", "Mineshaft"],
+    "Surrounding Biomes": ["Plains", "Ocean"],
+    "Best Suited For": ["Survival Friendly", "Creative Build Potential"]
+  }
+  
